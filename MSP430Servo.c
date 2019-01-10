@@ -1,5 +1,5 @@
 // *** SERVO CONTROL LIBRARY FOR MSP430 MICROCONTROLLERS *** //
-// ************** COPYRIGHT 2018 MARTIN RIIS *************** //
+// ********************** MARTIN RIIS ********************* //
 
 #include "MSP430Servo.h"
 
